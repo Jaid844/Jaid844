@@ -1,5 +1,5 @@
 <h1 align="center">Hi Folks 👋, I'm Muhammad Jaid</h1>
-<h3 align="center">A passionate Tech and Business</h3>
+<h3 align="center">I am  passionate about Tech and Business </h3>
 
 - 🔭 I’m currently working on **Sentiment Analysis using a Transformer Model**
 

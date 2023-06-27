@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **siddiquizaid683@gmail.com**
 
+- ![6vIk](https://github.com/Jaid844/News_article_sorting/assets/112820053/5ed81d4a-460d-4815-8851-bd89e5939f25)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/21376008/zaid-siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21376008/zaid-siddiqui" height="30" width="40" /></a>

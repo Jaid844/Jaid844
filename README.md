@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Machine learing and NLP projects**
 
-- 📫 How to reach me **siddiquizaid683@gmail.com**
-
 - ![6vIk](https://github.com/Jaid844/News_article_sorting/assets/112820053/5ed81d4a-460d-4815-8851-bd89e5939f25)
 
 <h3 align="left">Connect with me:</h3>
